@@ -14,7 +14,7 @@ var vote_store = [
   },
   {
     id: 2,
-    person_id: 4,
+    person_id: 2,
     beer_id: 2,
     date: '6/28/2014'
   },
