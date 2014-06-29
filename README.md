@@ -21,10 +21,16 @@ node server.js
 And point your browser to [http://localhost:3000](http://localhost:3000)
 
 
+Assets
+------
+
+All assets are served from the [public](public/) directory.  There is an example javascript usage of accessing/interacting with the api definitions found therein.
+
+
 Api definitions
 ===============
 
-
+Apis are defined in the [routes](routes/) directory.  
 Beer
 ----
 ```
